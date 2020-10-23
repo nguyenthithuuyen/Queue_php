@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ed47d5c5-75af-4dbf-9b1d-2fa40bfd52d8" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="ProjectId" id="1jGI9oI00G8Y83drouSqeKt5Ari" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Priority" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ed47d5c5-75af-4dbf-9b1d-2fa40bfd52d8" name="Default Changelist" comment="" />
+      <created>1603423852092</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603423852092</updated>
+      <workItem from="1603423853097" duration="1682000" />
+      <workItem from="1603425553248" duration="919000" />
+      <workItem from="1603426729950" duration="78000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1237" y="278" width="424" height="491" key="FileChooserDialogImpl" timestamp="1603426468121">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state x="1237" y="278" width="424" height="491" key="FileChooserDialogImpl/72.27.1848.1053@72.27.1848.1053" timestamp="1603426468121" />
+    <state x="1256" y="239" width="386" height="568" key="NewPhpClassDialog" timestamp="1603423913671">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state x="1256" y="239" width="386" height="568" key="NewPhpClassDialog/72.27.1848.1053@72.27.1848.1053" timestamp="1603423913671" />
+  </component>
+</project>
