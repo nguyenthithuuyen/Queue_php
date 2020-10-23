@@ -14,8 +14,7 @@ class Queue
 
     public function isEmpty()
     {
-        echo  "da kiem tra";
-        return $this->front;
+        return $this->front==null;
     }
 
     public function enqueue($value)
@@ -24,7 +23,7 @@ class Queue
         $this->back = new Node();
         $this->back->value = $value;
         if ($this->isEmpty()) {
-            $this->font = $this->back;
+            $this->front = $this->back;
         } else {
             $oldBack->next = $this->back;
         }
@@ -35,8 +34,8 @@ class Queue
         if ($this->isEmpty()) {
             return null;
         }
-        $removedValue = $this->font->value;
-         $this->font=$this->front->next;
+        $removedValue = $this->front->value;
+         $this->front=$this->front->next;
         return $removedValue;
 
     }
